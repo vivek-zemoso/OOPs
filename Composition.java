@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Car {
     private String name;
     private int price;
